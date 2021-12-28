@@ -1,14 +1,7 @@
-## Getting Started
+## map-pathfinder
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Given several maps, find a unique and efficient path to get from the starting point to destination, while managing movement resources and limited movement positions. 
 
-## Folder Structure
+A school project in which I was tasked with creating an optimal pathfinding algorithm based on several visual provided maps. The pathfinding was implemented using a stack based on an array data structure, and the project was created with the goals of implementing and using stack methods to facilitate algorithm design, as well as further explore Java classes, methods, inheritance, and modularity. 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Classes I authored: ArrayStack.java, StartSearch.java 
