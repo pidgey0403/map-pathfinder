@@ -5,3 +5,5 @@ Given several maps, find a unique and efficient path to get from the starting po
 A school project in which I was tasked with creating an optimal pathfinding algorithm based on several visual provided maps. The pathfinding was implemented using a stack based on an array data structure, and the project was created with the goals of implementing and using stack methods to facilitate algorithm design, as well as further explore Java classes, methods, inheritance, and modularity. 
 
 Classes I authored: ArrayStack.java, StartSearch.java 
+
+Note: when running the testfiles, maps used for testing will appear in new windows. 
